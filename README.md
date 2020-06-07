@@ -81,7 +81,7 @@ Open source from the first commit. If you're interested in helping out with our 
 
 Dive into Detox core by reading the [Detox Contribution Guide](/docs/Guide.Contributing.md).
 
-## License
+## License (Testing)
 
 * Detox by itself and all original source code in this repo is MIT
 * Detox relies on some important dependencies, their respective licenses are:
